@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to note-taking-app 👋</h1>
+<h1 align="center">Welcome to my note-taking-app 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,15 +6,19 @@
   </a>
 </p>
 
-## Install
+Steps to get the project up and running:
+
+1- Install
 
 ```sh
 npm install
 ```
 
-## Launch
+2- Launch
 
 npm run dev-server
+
+And you should be good to go!
 
 ## Author
 
