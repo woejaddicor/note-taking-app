@@ -30,6 +30,9 @@ npm run dev-server
 
 And you should be good to go!
 
+Alternatively, you can access the application through the following link:
+https://woejaddicor-notesapp.netlify.app
+
 ## Author
 
 👤 **Joe Waddicor**
