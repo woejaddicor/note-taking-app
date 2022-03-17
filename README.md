@@ -16,7 +16,9 @@ npm install
 
 2- Launch
 
+```sh
 npm run dev-server
+```
 
 And you should be good to go!
 
