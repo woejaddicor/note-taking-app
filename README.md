@@ -1,10 +1,15 @@
 <h1 align="center">Welcome to my note-taking-app 👋</h1>
-<p>This is</p>
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
+</p>
+
+<p>This is a simple note taking application built using JavaScript, while also utilising Babel and Webpack.
+This small web application allows you to create, remove, filter, and sort notes. It's very simple to get up and running,
+just follow the two steps below.
 </p>
 
 Steps to get the project up and running:
