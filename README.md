@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to note-taking-app 👋</h1>
+<h1 align="center">Welcome to my note-taking-app 👋</h1>
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,15 +7,28 @@
   </a>
 </p>
 
-## Install
+<p>This is a simple note taking application built using JavaScript, while also utilising Babel and Webpack.
+This small web application allows you to create, remove, filter, and sort notes. It's very simple to get up and running,
+just follow the two steps below.
+</p>
+
+Steps to get the project up and running:
+
+1- Install
 
 ```sh
+Inside any code editor e.g VS Code:
+
 npm install
 ```
 
-## Launch
+2- Launch
 
+```sh
 npm run dev-server
+```
+
+And you should be good to go!
 
 ## Author
 
