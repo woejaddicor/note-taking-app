@@ -31,7 +31,10 @@ npm run dev-server
 And you should be good to go!
 
 Alternatively, you can access the application through the following link:
+```sh
 https://woejaddicor-notesapp.netlify.app
+```
+
 
 ## Author
 
@@ -40,10 +43,3 @@ https://woejaddicor-notesapp.netlify.app
 - Github: [@woejaddicor](https://github.com/woejaddicor)
 - LinkedIn: [@https:\/\/www.linkedin.com\/in\/joe-waddicor-a00a63a7\/](https://linkedin.com/in/https://www.linkedin.com/in/joe-waddicor-a00a63a7/)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
